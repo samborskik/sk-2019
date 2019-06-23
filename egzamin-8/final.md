@@ -1,6 +1,6 @@
 ![diagram](diagram.png)
 
-#Rozwiązanie 
+## Rozwiązanie 
 1. W pliku ```/etc/network/interfaces``` dodać 
 	* PCO
 		* enp0s8 (bez)
