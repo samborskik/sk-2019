@@ -2,7 +2,7 @@
 
 # Rozwiązanie 
 ### 1. W pliku ```/etc/network/interfaces``` dodać ### 
-* PCO
+##### PCO
 	* enp0s8 (bez)
 		* auto enp0s8
 		* iface enp0s8 inet static
